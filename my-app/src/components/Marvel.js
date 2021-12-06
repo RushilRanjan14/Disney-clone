@@ -39,7 +39,7 @@ const Content = styled.div`
 `;
 
 const Wrap = styled.div`
-  padding-top: 56.25%;
+  padding-top: 56%;
   border-radius: 10px;
   cursor: pointer;
   overflow: hidden;
